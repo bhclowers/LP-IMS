@@ -1,0 +1,53 @@
+Name of Electrod, ID (mm), OD (mm)
+Electrode Diam 48, 50.8000, 55.8000
+Electrode Diam 47, 49.7938, 54.7938
+Electrode Diam 46, 48.7875, 53.7875
+Electrode Diam 45, 47.7812, 52.7812
+Electrode Diam 44, 46.7750, 51.7750
+Electrode Diam 43, 45.7687, 50.7687
+Electrode Diam 42, 44.7625, 49.7625
+Electrode Diam 41, 43.7563, 48.7563
+Electrode Diam 40, 42.7500, 47.7500
+Electrode Diam 39, 41.7437, 46.7437
+Electrode Diam 38, 40.7375, 45.7375
+Electrode Diam 37, 39.7313, 44.7313
+Electrode Diam 36, 38.7250, 43.7250
+Electrode Diam 35, 37.7188, 42.7188
+Electrode Diam 34, 36.7125, 41.7125
+Electrode Diam 33, 35.7062, 40.7062
+Electrode Diam 32, 34.7000, 39.7000
+Electrode Diam 31, 33.6938, 38.6938
+Electrode Diam 30, 32.6875, 37.6875
+Electrode Diam 29, 31.6812, 36.6812
+Electrode Diam 28, 30.6750, 35.6750
+Electrode Diam 27, 29.6687, 34.6688
+Electrode Diam 26, 28.6625, 33.6625
+Electrode Diam 25, 27.6562, 32.6562
+Electrode Diam 24, 26.6500, 31.6500
+Electrode Diam 23, 25.6438, 30.6438
+Electrode Diam 22, 24.6375, 29.6375
+Electrode Diam 21, 23.6313, 28.6313
+Electrode Diam 20, 22.6250, 27.6250
+Electrode Diam 19, 21.6187, 26.6187
+Electrode Diam 18, 20.6125, 25.6125
+Electrode Diam 17, 19.6062, 24.6062
+Electrode Diam 16, 18.6000, 23.6000
+Electrode Diam 15, 17.5938, 22.5938
+Electrode Diam 14, 16.5875, 21.5875
+Electrode Diam 13, 15.5813, 20.5813
+Electrode Diam 12, 14.5750, 19.5750
+Electrode Diam 11, 13.5687, 18.5688
+Electrode Diam 10, 12.5625, 17.5625
+Electrode Diam 9, 11.5563, 16.5562
+Electrode Diam 8, 10.5500, 15.5500
+Electrode Diam 7, 9.5437, 14.5437
+Electrode Diam 6, 8.5375, 13.5375
+Electrode Diam 5, 7.5312, 12.5312
+Electrode Diam 4, 6.5250, 11.5250
+Electrode Diam 3, 5.5187, 10.5188
+Electrode Diam 2, 4.5125, 9.5125
+Electrode Diam 1, 3.5063, 8.5062
+Electrode Diam 0, 2.5000, 7.5000
+Last Radius: 1.25 mm
+Working!
+[Finished in 1.1s]
